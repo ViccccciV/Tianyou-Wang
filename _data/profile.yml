@@ -14,10 +14,15 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a first-year PhD student at the <a href="https://ori.ox.ac.uk/groups/a2i" target="_blank">Applied AI Lab</a>, <a href="https://ori.ox.ac.uk/" target="_blank">Oxford Robotics Institute</a>, University of Oxford, supervised by <a href="https://ori.ox.ac.uk/people/ingmar-posner" target="_blank">Prof. Ingmar Posner</a>.
-  </p>
-  <p>
     My research interests include robot learning and world model for robotic manipulation, with a focus on enabling robots 
     to learn from human data and adapt to diverse, unstructured environments. 
   </p>
+  <p>
+    Previously, I earned my master's degree in Robotics at the GRASP Laboratory at the University of Pennsylvania, where I worked with <a href="https://www.engineering.upenn.edu/~dineshj/" target="_blank">Prof. Dinesh Jayaraman</a> 
+    and <a href="https://www.cis.upenn.edu/~kostas/" target="_blank">Prof. Kostas Daniilidis</a>. Before that, I received my bachelor's degree in Intelligent Manufacturing from <a href="https://www2.scut.edu.cn/wusie_en/main.htm" target="_blank">SHIEN-MING WU School of Intelligent Engineering</a>, South China University of Technology.
+  </p>
+  </p>
+    I am always happy to chat about research and explore potential collaborations! Feel free to reach out at tianyou@robots.ox.ac.uk!
+  </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/website.jpg
