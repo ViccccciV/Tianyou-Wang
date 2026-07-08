@@ -2,11 +2,11 @@
 title:          "Imitation from Heterogeneous Demonstrations using Grounded Latent-Action World Models"
 date:           2026-06-01 00:00:00 +0100
 selected:       true
-pub:            "arXiv preprint"
+pub:            "Under Review"
 pub_date:       "2026"
 abstract: >-
   We introduce GLAM (Grounded Latent‑Action World Models), a pair of latent-action generative models that leverage heterogeneous demonstrations for supervising downstream imitation learning.
-cover:          /assets/images/covers/glam.png
+cover:          /assets/images/covers/glam.gif
 authors:
   - Tianyou Wang
   - Anson Lei
