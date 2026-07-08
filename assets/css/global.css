@@ -91,3 +91,7 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.small {
+    font-size: 90%;
+}
