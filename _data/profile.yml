@@ -5,10 +5,10 @@ navbar_name: "Tianyou Wang"
 
 email: "tianyou@robots.ox.ac.uk"
 # cv_link: link-to-your-cv-file
-gscholar: yNwquUcAAAAJ  # This is an example, replace it with your own Google Scholar ID
+# gscholar: yNwquUcAAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
-twitter: tianyou_wang01  # Do not include the '@' symbol
-linkedin: tianyou-wang-5b7ab028a
+# twitter: tianyou_wang01  # Do not include the '@' symbol
+# linkedin: tianyou-wang-5b7ab028a
 
 short_bio_text_justify: false
 short_bio: >-
